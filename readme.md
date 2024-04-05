@@ -1,3 +1,1 @@
-suprith
-adsfsadsadsa
-aasdfasdfsaf
+AWS RESOURCE TRACKER USING SHELL SCRIPTING
