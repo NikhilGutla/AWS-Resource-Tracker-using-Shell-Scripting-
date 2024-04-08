@@ -1,6 +1,12 @@
 #!/bin/bash
+#####################################################
+#AUTHOR: NIKHIL GUTLA 
+#VERSION: V 1.0
+#DATE: APRIL 5TH, 2024
+#####################################################
 
-#Listing EC2,S3,LAMBDA,IAM
+
+#Listing EC2,S3,LAMBDA,IAM from my AWS portal
 
 set -x
 
@@ -23,6 +29,7 @@ aws lambda list-functions
 
 echo "print list of IAM users"
 aws iam list-users
+
 
 
 
