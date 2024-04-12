@@ -1,8 +1,8 @@
 #!/bin/bash
 #####################################################
-#AUTHOR: NIKHIL GUTLA 
-#VERSION: V 1.0
-#DATE: APRIL 5TH, 2024
+# AUTHOR: NIKHIL GUTLA 
+# VERSION: V 1.0
+# DATE: APRIL 5TH, 2024
 #####################################################
 
 
